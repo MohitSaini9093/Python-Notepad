@@ -1,3 +1,8 @@
+"""
+install tkinter and ttk lastest version.
+
+
+"""
 from tkinter import *
 from tkinter import ttk
 
